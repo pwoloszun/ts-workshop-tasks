@@ -1,0 +1,9 @@
+---
+WebStorm transpiler (automatic TS to JS):
+https://www.jetbrains.com/webstorm/help/transpiling-typescript-to-javascript.html#d227055e138
+File > Settings > Language & Frameworks > TypeScript > Enable ... Compiler
+
+---
+Config WebStorm JS Debuger:
+https://www.jetbrains.com/webstorm/help/configuring-javascript-debugger.html
+
