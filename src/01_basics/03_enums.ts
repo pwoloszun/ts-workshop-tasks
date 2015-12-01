@@ -1,1 +1,2 @@
-// define Permissions enum with values: Read, Write, Delete, Update
+// TODO define Day enum with values:
+// SUNDAY, MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY
