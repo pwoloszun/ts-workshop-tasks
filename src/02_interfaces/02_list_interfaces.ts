@@ -1,18 +1,9 @@
-function reduce() {
-}
+// Merge function interface
 
-function all() {
-}
+// Reduce function interface
 
-function where() {
-}
+// All function interface
 
-function pluck() {
-}
+// Pluck function interface
 
-function groupBy() {
-}
-
-function functionInterfacesTest() {
-
-}
+// GroupBy function interface
