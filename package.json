@@ -1,0 +1,15 @@
+{
+  "name": "ts-workshop-taks",
+  "version": "0.1.0",
+  "dependencies": {
+    "typescript": "1.7.5"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "tsc": "tsc",
+    "tsc:w": "tsc -w",
+    "lite": "lite-server",
+    "start": "npm run tsc:w"
+  }
+}
