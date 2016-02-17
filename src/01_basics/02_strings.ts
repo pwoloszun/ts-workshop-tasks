@@ -8,7 +8,14 @@
  * Usage:
  * reverseEachWord("abc xyz") => "cba zyx"
  * */
-//console.log("reverseEachWord:", reverseEachWord("abc"));
+//console.log("reverseEachWord:", reverseEachWord("abc xyz"));
+
+// use:
+//array = str.split(separatorStr)
+// and:
+//str = array.join(separatorStr)
+
+
 
 /*
  * isBlank(null) => true
